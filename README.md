@@ -1,30 +1,35 @@
 # Flutter Template
 
-Flutter template project - A simple user list app.
+A Flutter template project for a simple user list app.
 
+## Screenshots
 
-<br />
-<div>
-  &emsp;&emsp;&emsp;
-  # Splash Screen
- <img src="assets/images/splash.png" height="500">
-  &emsp;&emsp;&emsp;
-  # Login Screen
-<img src="assets/images/login.png" height="500">
-  &emsp;&emsp;&emsp;
-  # User List Screen
-<img src="assets/images/user_list.png" height="500"> 
+### Splash Screen
+
+<div align="center">
+  <br />
+  <img src="assets/images/splash.png" alt="Splash Screen" height="500" />
 </div>
-<br />
 
+### Login Screen
 
-# First Run
+<div align="center">
+  <b>Login Screen</b>
+  <br />
+  <img src="assets/images/login.png" alt="Login Screen" height="500" />
+</div>
 
+### User List Screen
 
-After installing the package dependencies with 
+<div align="center">
+  <b>User List Screen</b>
+  <br />
+  <img src="assets/images/user_list.png" alt="User List Screen" height="500" />
+</div>
 
-```
+## Getting Started
+
+After installing the package dependencies with:
+
+```bash
 flutter pub get
-```
-
-
