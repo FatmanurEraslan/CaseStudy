@@ -7,7 +7,7 @@ import 'package:case_study/notifier/auth_notifier.dart';
 import 'package:case_study/services/auth_service.dart';
 import 'package:case_study/size_config.dart';
 import 'package:flutter/material.dart';
-import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class SignForm extends StatefulWidget {
   const SignForm({super.key});
